@@ -24,4 +24,5 @@ class Point3D:
 
 
 p = Point3D(1, 2, 3)
+
 print(p.__dict__)
